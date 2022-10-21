@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaDatatypes/JavaDatatypes.iml" filepath="$PROJECT_DIR$/JavaDatatypes/JavaDatatypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaDateandTime/JavaDateAndTime.iml" filepath="$PROJECT_DIR$/JavaDateandTime/JavaDateAndTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaEndOfFile/JavaEndOfFile.iml" filepath="$PROJECT_DIR$/JavaEndOfFile/JavaEndOfFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaIntToString/JavaIntToString.iml" filepath="$PROJECT_DIR$/JavaIntToString/JavaIntToString.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaLoopII/JavaLoopII.iml" filepath="$PROJECT_DIR$/JavaLoopII/JavaLoopII.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStaticInitializerBlock/JavaStaticInitializerBlock.iml" filepath="$PROJECT_DIR$/JavaStaticInitializerBlock/JavaStaticInitializerBlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hacker_rank.iml" filepath="$PROJECT_DIR$/.idea/hacker_rank.iml" />
